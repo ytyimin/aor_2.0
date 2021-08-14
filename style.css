@@ -20,6 +20,11 @@ a {
   z-index: 2;
   transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
+
+img {
+  display: inline-block;
+  margin: 25px 10px;
+}
 .et-header--scrolled {
   background: #fff;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
